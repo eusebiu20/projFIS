@@ -7,8 +7,14 @@
 
     <name>projFIS</name>
     <description>An awesome appl</description>
+    <dependencies>
+        <dependency>
+            <groupId>com.mycompany.app</groupId>
+            <artifactId>projFIS</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency></dependencies>
 
-    <groupId>net.codejava</groupId>
+    <groupId>com.mycompany.app</groupId>
     <artifactId>projFIS</artifactId>
     <version>1.0-SNAPSHOT</version>
 
